@@ -17,7 +17,7 @@ This workflow automatically sends personalized emails to multiple users using Gm
 
 ## Workflow Screenshot
 
-![Workflow Screenshot](workflow-screenshot.png)
+the screenshot of workflow was uploaded
 
 ## Workflow File
 The JSON workflow file is included in this repository.
